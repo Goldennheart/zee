@@ -1,0 +1,59 @@
+*{
+    box-sizing: border-box;
+}
+
+.pic{
+    font-size: 100%;
+    padding-left: 8%;
+}
+
+.stage{
+    border-radius: 2%;
+}
+
+.footer{
+    margin-top: 5%;
+}
+
+.lorem{
+font-size: 85%;
+padding-left: 12%;
+}
+
+.logo{
+    padding-left: 7%;
+}
+
+.socials{
+    padding-left: 9%;
+}
+
+.fas{
+    padding-left: 7%;
+}
+
+.months a:hover{
+    background-color: goldenrod;
+    text-decoration: none;
+}
+
+.nov a:link{
+    background-color: goldenrod;
+    border-radius: 8%;
+}
+
+.gal a:active{
+    text-decoration: blue;
+    border-radius: 8%;
+}
+
+.timeline a:hover{
+    text-decoration: none;
+}
+.timeline a:active{
+    background-color: blue;
+}
+
+.months{
+    border-radius: 3%;
+}
